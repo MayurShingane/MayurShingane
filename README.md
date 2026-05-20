@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **mayurshingane71@gmail.com**
   -Spring Boot & Hibernate/JPA for enterprise applications
   -React & Frontend debugging for full-stack exposure
   -Salesforce basics (Apex, LWC)
-  Agile methodology for collaborative development
+  -Agile methodology for collaborative development
 - 📫 **How to reach me:** mayurshingane71@gmail.com
 - 😄 **Pronouns:** Mayur
 - ⚡ **Fun fact:** I love experimenting with tech stacks and believe “Tech loves me back when I solve problems with it.
