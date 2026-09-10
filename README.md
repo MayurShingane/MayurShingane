@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **mayurshingane71@gmail.com**
 - 🔭 **I’m currently working on:**
 
   -Building scalable REST APIs with Java & Spring Boot
-  -Automating workflows and testing with Selenium & Postman
+  -Automating workflows and testing with Postman
   -Personal projects in Data Science (predictive modeling, analytics)
 
 - 🌱 **I’m currently learning:**
